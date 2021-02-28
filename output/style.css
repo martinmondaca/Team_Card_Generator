@@ -1,0 +1,26 @@
+.jumbotron {
+    background-color: red;
+    color: white;
+}
+
+.employee-card {
+    margin: 10px;
+    padding: 10px;
+    box-shadow: 3px 3px;
+}
+
+.manager-card {
+    background-color: blue;
+    color: white;
+}
+
+.engineer-card{
+    background-color: green;
+    color:white;
+}
+
+.intern-card{
+    background-color: orange;
+    color: white;
+}
+
