@@ -3,7 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
   ## Table of Contents
-  
+
   * [Description](#description)
   * [Installation](#installation)
   * [Technologies-Used](#technologies-used)
@@ -35,13 +35,13 @@
 
   1. After you have installed all required dependencies, use the following command in your terminal: 'node app.js'.
   1. You will then be prompted to select which team member you would like to add.
-  * If you select Manager, then you will be asked for their name, id, email, and office number.
-  * If you select Engineer, then you will be asked for their name, id, email, and GitHub username.
-  * If you select Intern, then you will be asked for their name, id, email, and school name.
+      1. If you select Manager, then you will be asked for their name, id, email, and office number.
+      1. If you select Engineer, then you will be asked for their name, id, email, and GitHub username.
+      1. If you select Intern, then you will be asked for their name, id, email, and school name.
   1. When you are done inputting member information you can select 'I don't want to add any more team members.'.
   1. When you are finished with all prompts, the html file with your team will be written to the empty file in 'output/team.html'.
   1. You can create further teams by running the 'node app.js' command in your terminal.
-  * Plase note that this will overwrite anything that is already in the team.html file, so make sure to save any changes into another directory if you would like to keep those changes.
+      1. Plase note that this will overwrite anything that is already in the team.html file, so make sure to save any changes into another directory if you would like to keep those changes.
 
   ## Walkthrough
 
